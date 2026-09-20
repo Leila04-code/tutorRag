@@ -4,11 +4,15 @@ Plateforme d'apprentissage basée sur une architecture RAG. Les enseignants dép
 
 Fonctionnalités
 
-Comptes et rôles : inscription et connexion pour les élèves et les enseignants, mots de passe hachés avec bcrypt, authentification HTTP Basic
-Enseignant : import de documents PDF associés à un niveau scolaire (1 à 3 (1ére année - 3éme année))
-Élève : questions-réponses sur les cours de son niveau, avec indication des sources
-Quiz : génération de QCM à partir d'un thème, correction automatique, historique des tentatives
-Interface : application Streamlit (accueil, inscription, connexion, tableaux de bord enseignant et élève)
+-Comptes et rôles : inscription et connexion pour les élèves et les enseignants, mots de passe hachés avec bcrypt, authentification HTTP Basic
+
+-Enseignant : import de documents PDF associés à un niveau scolaire (1 à 3 (1ére année - 3éme année))
+
+-Élève : questions-réponses sur les cours de son niveau, avec indication des sources
+
+-Quiz : génération de QCM à partir d'un thème, correction automatique, historique des tentatives
+
+-Interface : application Streamlit (accueil, inscription, connexion, tableaux de bord enseignant et élève)
 
 Pipeline RAG
 
